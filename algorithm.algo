@@ -1,0 +1,19 @@
+ALGORITHM three_algo 
+VAR
+    i= intger:=0 ;
+    m= intger;
+    n= intger;
+
+BEGIN
+tab : ARRAY_OF intger [n][m];
+FOR i FROM 0 TO max tab.lenght-1 step 1 DO
+    IF (i=0 ; i <= tab.lenght ; i++) THEN
+        tab[m]= tab[i]
+    ELSE
+    t
+        
+    END_IF
+    
+END_FOR
+
+END
